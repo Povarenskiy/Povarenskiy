@@ -1,7 +1,6 @@
 ## Привет! Меня зовут Роман 
 
-
-Пишу код на python 
+Я python разработчик. Пишу backend на Django и DRF.
 
 ### Cвязаться со мной:
 * Почта: povarenskiy.rb@yandex.ru
